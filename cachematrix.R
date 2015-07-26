@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 
- 
 ##finding the set matrix or cofactors, and solve the matrix to make a list with this elements
 makeCacheMatrix <- function(x = matrix()) {
 m<-NULL
